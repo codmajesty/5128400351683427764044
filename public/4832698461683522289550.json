@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292837223236",
+    "project_id": "toca-boca-bathroom-ideas",
+    "storage_bucket": "toca-boca-bathroom-ideas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292837223236:android:43ffb39e80888b3d6f0511",
+        "android_client_info": {
+          "package_name": "com.toca.boca.bathroom.ideas.naufalharitsstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292837223236-a81he469im018nms3v5853khe94uud6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYUp2ygh8q3ub-FWOikC37CrsHD_DvPVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292837223236-a81he469im018nms3v5853khe94uud6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
